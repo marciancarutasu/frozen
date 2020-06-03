@@ -1,1 +1,0 @@
-# FrozenLogic interview
